@@ -19,12 +19,12 @@ Hi! I'm Chris. I'm a multi-skilled Analyst / Technical Writer / Systems Engineer
 
 ### Values
 
-👍 Teamwork
-🧠 Integrity
+👍 Teamwork  
+🧠 Integrity  
 🍩 Knowledge Sharing
 
 ### Things I'm working on 
 
-🎓 Finishing a Master's degree
-🌱 Maintaining a COVID gardening plot
+🎓 Finishing a Master's degree  
+🌱 Maintaining a COVID gardening plot  
 📗 Readings too many textbooks
