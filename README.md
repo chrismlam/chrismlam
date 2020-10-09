@@ -27,5 +27,5 @@ Hi! I'm Chris. I'm a multi-skilled Analyst / Technical Writer / Systems Engineer
 
 🎓 Finishing a Master's degree  
 🌱 Maintaining a COVID gardening plot  
-📗 Readings too many textbooks
+📗 Readings too many textbooks  
 🕷 Fixing up a [Github Pages site](https://lams.space)!
