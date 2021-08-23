@@ -15,17 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Chris. I'm a multi-skilled Analyst / Technical Writer / Systems Engineer currently studying a Master of Data Science degree. I have a passion working in data analytics products and projects, but I'm interested in mostly everything!
-
-### Values
-
-👍 Teamwork  
-🧠 Integrity  
-🍩 Knowledge Sharing
-
-### Things I'm working on 
-
-🎓 Finishing a Master's degree  
-🌱 Maintaining a COVID gardening plot  
-📗 Readings too many textbooks  
-🕷 Fixing up a [Github Pages site](https://lams.space)!
+Hello there.
